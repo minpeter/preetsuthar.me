@@ -34,7 +34,7 @@
     "markdown-it-sup": "^2.0.0",
     "markdown-it-table-of-contents": "^0.9.0",
     "motion": "^12.23.6",
-    "next": "^15.4.1",
+    "next": "^16.2.12",
     "node-fetch": "^3.3.2",
     "prismjs": "^1.30.0",
     "react": "^19",
